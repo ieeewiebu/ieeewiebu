@@ -1,7 +1,7 @@
 ## Hi there 👋
 # IEEE Women in Engineering (WIE)
 
-![WIE Logo]([http://ieee.daiict.ac.in/ieee2017/wie.php](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiyoNW_h-OQqtnsp5n_hVj4g_JVSKHGCQD-w&s))
+![WIE Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiyoNW_h-OQqtnsp5n_hVj4g_JVSKHGCQD-w&s)
 
 ## About IEEE WIE
 
