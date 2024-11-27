@@ -1,7 +1,7 @@
 ## Hi there 👋
 # IEEE Women in Engineering (WIE)
 
-![WIE Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/IEEE_WIE_logo.svg/1200px-IEEE_WIE_logo.svg.png)
+![WIE Logo](http://ieee.daiict.ac.in/ieee2017/wie.php)
 
 ## About IEEE WIE
 
@@ -68,7 +68,7 @@ Join us in our mission to make technology accessible, inclusive, and innovative 
 
 Interested in making a difference? Connect with us to be part of our initiatives:  
 - Visit [IEEE WIE Website](https://wie.ieee.org)  
-- Follow us on [LinkedIn](https://www.linkedin.com/company/ieee-women-in-engineering/)  
+- Follow us on [LinkedIn](https://www.linkedin.com/in/ieee-wie-bu-96b3b4259/)  
 
 Let’s inspire and innovate together!
 
